@@ -1,6 +1,6 @@
 # Configuration Guide of ROS2 Gazebo Simulation for the Crazyflie 
 
-This is a fully operational step-by-step guide contains all the details to install and fulfill the function of sim_cf2* from https://github.com/CrazyflieTHI/sim_cf2.
+This is a fully operational step-by-step guide contains all the details to install and fulfill the function of *sim_cf2* from https://github.com/CrazyflieTHI/sim_cf2.
 
 Sim_cf2 is based on the Gazebo Simulation for Crazyflie CRTP *sim_cf* from https://github.com/wuwushrek/sim_cf
 
