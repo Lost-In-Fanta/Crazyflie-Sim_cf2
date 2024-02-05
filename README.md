@@ -226,7 +226,7 @@ The SITL instances will establish a connection to Gazebo
 
 [//]: # (![sitl_connection_established_with_gazebo]&#40;images/sitl_connection_established_with_gazebo.png&#41;)
 
-**Press PLAY in Gazebo**
+**Press PLAY :arrow_forward: in Gazebo**
 
 ### 3. Run a Python Script
 
