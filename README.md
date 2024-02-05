@@ -162,9 +162,13 @@ Notice:
 Solution:
 
 Not sure which one fixed this error.
+>source /opt/ros/humble/setup.bash
+>
+>sudo apt-get install ros-humble-ros-ign-bridge
+>
+>sudo apt install ros-humble-gazebo-ros-pkgs
+Update: I believe following command can fix this error.
 ```sh
-source /opt/ros/humble/setup.bash
-sudo apt-get install ros-humble-ros-ign-bridge
 sudo apt install ros-humble-gazebo-ros-pkgs
 ```
 
