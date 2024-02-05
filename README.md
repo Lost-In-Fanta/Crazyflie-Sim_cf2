@@ -143,7 +143,7 @@ cd ~/dev_ws
 ```
 Clone *sim_cf2* to local workspace
 ```sh
-https://github.com/CrazyflieTHI/sim_cf2.git
+git clone https://github.com/CrazyflieTHI/sim_cf2.git
 ```
 
 ```sh
