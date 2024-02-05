@@ -28,17 +28,17 @@ Sim_cf2 is based on the Gazebo Simulation for Crazyflie CRTP *sim_cf* from https
 ## Installation - Ubuntu 22.04 with python 3.10
 Tested on an Ubuntu 22.04 LTS machine
 
-### 1.Install ROS2 humble
+### Install ROS2 humble
 https://docs.ros.org/en/humble/Installation/Ubuntu-Install-Debians.html
 
 Note: Other versions of ROS 2 should be available, but here I only test with ROS2-humble.
-### 2.ROS2 humble installation test
+### ROS2 humble installation test
 Use the following command to test whether ros2 can be used properly.
 ```sh
 source /opt/ros/humble/setup.bash
 ros2  --help
 ```
-### 3.Install gazebo11
+### Install gazebo11
 https://classic.gazebosim.org/tutorials?tut=install_ubuntu
 
 Install
@@ -49,7 +49,7 @@ Run
 ```sh
 gazebo
 ```
-### 4.Install crazyflie-lab
+### Install crazyflie-lab
 https://github.com/CrazyflieTHI/crazyflie-lib-python/blob/master/docs/installation/install.md
 
 Then install dependencies following:
@@ -61,7 +61,7 @@ Clone *crazyflie-lib-python* to local
 git clone https://github.com/CrazyflieTHI/crazyflie-lib-python.git
 ```
 
-### 5.Install Crazyflie Firmware for sim_cf2 SITL 
+### Install Crazyflie Firmware for sim_cf2 SITL 
 Clone *Crazyflie Firmware* to local
 ```sh
 git clone https://github.com/CrazyflieTHI/crazyflie-firmware.git
@@ -87,9 +87,11 @@ Follow https://github.com/CrazyflieTHI/crazyflie-firmware to finish building for
 
 Notice:
 
-Encountered a very rare error：Your display is too small to run Menuconfig!
+>Encountered a very rare error：Your display is too small to run Menuconfig!
 
-Solution: Expand terminal window。
+Solution: 
+
+>Expand terminal window。
 
 ### Install Dependencies for *sim_cf2*
 
@@ -149,13 +151,13 @@ colcon build
 ```
 Notice:
 
-Encountered error:
-
-Could not find a package configuration file provided by "ament_cmake" with any of the following names:
-
-ament_cmakeConfig.cmake 
-
-ament_cmake-config.cmake
+>Encountered error:
+>
+>Could not find a package configuration file provided by "ament_cmake" with any of the following names:
+>
+>ament_cmakeConfig.cmake 
+>
+>ament_cmake-config.cmake
 
 Solution:
 
