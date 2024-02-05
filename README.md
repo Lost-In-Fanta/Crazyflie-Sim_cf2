@@ -235,6 +235,7 @@ Start your *cflib*-based python script with activated *simlink* driver. Example 
 Run for example the autonomousSequence.py script
 
 ```sh
+cd ~/repos/crazyflie-lib-python/examples/sim_cf2
 python3 autonomousSequence.py
 ```
 
