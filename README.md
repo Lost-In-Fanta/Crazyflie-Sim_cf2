@@ -193,9 +193,6 @@ Open a terminal and source the ROS2 workspace if not done already (assuming the 
 
 ```sh
 source /opt/ros/humble/setup.bash
-```
-Sometime this command also works.
-```sh
 source ~/dev_ws/install/local_setup.bash
 ```
 Use the ROS2 launch command to start the *sim_cf2* simulation
