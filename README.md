@@ -266,3 +266,9 @@ sudo apt install ros-iron-rmw-cyclonedds-cpp
 ```
 ## Test video
 [Screencast from 02-03-2024 01:39:02 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/d01a4596-795d-46bb-8bc6-25f16b7c1433)
+
+## Test with
+```sh
+cf.commander.send_velocity_world_setpoint
+```
+[Screencast from 02-06-2024 01:29:41 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/95e81f9d-9d3a-4459-8eb1-9216c2275cd2)
