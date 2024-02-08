@@ -277,7 +277,6 @@ cf.commander.send_velocity_world_setpoint
 2 drones
 [Screencast from 02-08-2024 12:50:43 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/140867b6-3a45-4e5b-84b6-15712890ab3f)
 
-Connected to according url.
-
-6 drones
+## Test with 6 drones
+Connected to according corresponding url. 'radio://0/80/2M/E7E7E7E701' 'radio://0/80/2M/E7E7E7E702'
 [Screencast from 02-08-2024 01:18:29 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/705e35bb-134a-4888-9006-45df201c8705)
