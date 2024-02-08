@@ -274,5 +274,8 @@ cf.commander.send_velocity_world_setpoint
 [Screencast from 02-06-2024 01:29:41 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/95e81f9d-9d3a-4459-8eb1-9216c2275cd2)
 
 ## Test with multi drones
+2 drones
 [Screencast from 02-08-2024 12:50:43 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/140867b6-3a45-4e5b-84b6-15712890ab3f)
 
+6 drones
+[Screencast from 02-08-2024 01:18:29 PM.webm](https://github.com/Lost-In-Fanta/Crazyflie-Sim_cf2/assets/98923769/705e35bb-134a-4888-9006-45df201c8705)
